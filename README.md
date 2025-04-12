@@ -5,4 +5,4 @@ The purpose of this project is to design a python application that communicates 
 
 ## Tools
 Python
-OpenWeather API
+OpenWeather API [https://openweathermap.org/]
